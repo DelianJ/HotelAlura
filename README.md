@@ -16,3 +16,5 @@ Proyecto desarrollado para el Challenge ONE Back End Java Sprint 01: Crea tu pro
 <p>Y también se puede realizar la búsqueda de algún registro por medio del número de reserva o el apellido del huésped</p>
 <img src="https://github.com/DelianJ/hotelalura/assets/114271050/0af94d40-9806-4cc4-8c11-6f5b2ca49398"/>
 <img src="https://github.com/DelianJ/hotelalura/assets/114271050/1891922a-6699-403c-ac4f-11bdd998c43b"/>
+<br/>
+<img src="https://github.com/DelianJ/hotelalura/assets/114271050/408e817d-a2dd-4e0f-9419-9b908687a9f8"/>
